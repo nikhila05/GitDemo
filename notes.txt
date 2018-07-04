@@ -1,0 +1,7 @@
+git init -->to initiate
+git clone -->to download
+git add --all-->to add the changes
+git diff -->to see the differences
+git commit -->git starts saving changes
+git status -->to see the changes
+git log -->to know the history
